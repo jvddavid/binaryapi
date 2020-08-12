@@ -1,4 +1,5 @@
 requests
 websocket-client
 simplejson
+selenium
 pause
